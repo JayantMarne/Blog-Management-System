@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crytpo-js": "^0.0.1-security",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.6",
+    "nodemon": "^3.1.0",
+    "pm2": "^5.3.1",
+    "yarn": "^1.22.22"
+  }
+}
